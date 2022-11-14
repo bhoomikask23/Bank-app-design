@@ -23,8 +23,6 @@ struct ContentView: View {
                     .background(Color.white)
                     .navigationTitle("My Card")
                 }
-                
-                
             }
             .tabItem{ Label("Home", systemImage:"house")}
           
