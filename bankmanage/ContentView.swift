@@ -15,6 +15,9 @@ struct ContentView: View {
                     ScrollView(.vertical) {
                         cardlist()
                         transcation()
+                      
+                        
+                        
                         
                     }
                     .background(Color.white)
